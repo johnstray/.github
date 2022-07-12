@@ -1,2 +1,5 @@
 # .github
-Community Health files for @johnstray repositories
+
+*Community health files for @johnstray repositories*
+
+For more information, please see the article on [creating a default community health file for your organization](https://help.github.com/en/articles/creating-a-default-community-health-file-for-your-organization).
