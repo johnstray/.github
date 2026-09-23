@@ -110,6 +110,24 @@ In general:
 
 Individual repositories may define additional coding standards or tooling requirements.
 
+## AI-Assisted Development
+
+AI-assisted development tools may be used when contributing to projects covered by these guidelines.
+
+AI tools may be useful for tasks such as:
+
+- Exploring possible approaches to a problem.
+- Generating or reviewing code.
+- Troubleshooting and debugging.
+- Writing or improving documentation.
+- Developing tests or identifying edge cases.
+
+Contributors remain responsible for the changes they submit. AI-generated code, suggestions, and documentation should be reviewed for correctness, security, licensing, maintainability, and compatibility with the project before being submitted.
+
+Contributors should also test AI-assisted changes in the same way as any other contribution. The use of AI does not replace the project's normal review, testing, or contribution requirements.
+
+When using AI tools, do not provide them with passwords, API keys, private credentials, personal information, or other confidential project or user data.
+
 ## Testing
 
 Changes should be tested before submitting a pull request.
